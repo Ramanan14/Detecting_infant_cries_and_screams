@@ -1,5 +1,5 @@
 # Detecting_infant_cries_and_screams
-This repositary contains the data and code to implement an Ensemble Model for Detecting Infant Cries, Screams, and Normal Utterances.
+This repositary contains the data and code to implement and evaluate an Ensemble Model for Detecting Infant Cries, Screams, and Normal Utterances.
 The datasets for the crying class is in the folders **infant_cry**, **donateacry_corpus**
 The dataset for the screaming class in the folder **Screaming**
 The dataset for the normal utterances is in the folder **utterances**
